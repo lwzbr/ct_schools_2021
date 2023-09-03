@@ -1,0 +1,167 @@
+﻿name,households,income
+"Andover School District",1216,105328
+"Ashford School District",1774,70952
+"Barkhamsted School District",1336,109688
+"Bethany School District",2018,129133
+"Bozrah School District",986,90156
+"Brooklyn School District",2915,76047
+"Canaan School District",507,80298
+"Canterbury School District",1916,91973
+"Chaplin School District",988,70500
+"Chester School District",1772,88167
+"Colebrook School District",590,98250
+"Columbia School District",2156,109962
+"Cornwall School District",598,80000
+"Deep River School District",1883,85960
+"Eastford School District",681,92813
+"Easton School District",2799,157448
+"Essex School District",3074,89261
+"Franklin School District",717,96719
+"Hampton School District",785,81016
+"Hartland School District",756,99722
+"Hebron School District",3528,121200
+"Kent School District",1176,78125
+"Lisbon School District",1714,91125
+"Mansfield School District",5740,51911
+"Marlborough School District",2331,112557
+"New Hartford School District",2580,106765
+"Norfolk School District",700,75208
+"North Canaan School District",1402,62432
+"Orange School District",4974,121308
+"Pomfret School District",1647,93472
+"Preston School District",1830,79444
+"Redding School District",3452,132838
+"Salem School District",1661,109460
+"Salisbury School District",1700,72658
+"Scotland School District",614,86053
+"Sharon School District",1278,81919
+"Sherman School District",1470,101818
+"Sprague School District",1149,68301
+"Sterling School District",1446,78684
+"Union School District",374,87083
+"Voluntown School District",987,85052
+"Willington School District",2577,76908
+"Woodbridge School District",2897,157610
+"Woodstock School District",3249,86821
+"Region 19",10091,63053
+"Region 11",2387,80038
+"Region 01",6661,74011
+"Region 04",6729,87624
+"Region 05",9889,135532
+"Region 07",5206,105000
+"Region 08",7075,113144
+"Region 09",6251,136658
+"Ansonia School District",7806,54901
+"Avon School District",6977,131130
+"Berlin School District",8181,101127
+"Bethel School District",7164,101968
+"Bloomfield School District",8727,76717
+"Bolton School District",1821,105772
+"Branford School District",12369,77640
+"Bridgeport School District",50638,46662
+"Bristol School District",24638,67507
+"Brookfield School District",6200,114615
+"Canton School District",4046,87567
+"Cheshire School District",10169,120546
+"Clinton School District",5396,79554
+"Colchester School District",5985,105281
+"Coventry School District",4648,96143
+"Cromwell School District",5897,89243
+"Danbury School District",30000,73297
+"Darien School District",6895,232523
+"Derby School District",5146,56357
+"East Granby School District",2027,104336
+"East Haddam School District",3640,96928
+"East Hampton School District",4831,95513
+"East Hartford School District",19046,55967
+"East Haven School District",11147,67390
+"East Lyme School District",7345,95217
+"East Windsor School District",4855,76824
+"Ellington School District",7000,91510
+"Enfield School District",16744,79730
+"Fairfield School District",20641,139122
+"Farmington School District",10463,93053
+"Glastonbury School District",13411,120837
+"Granby School District",4147,121250
+"Greenwich School District",22271,152577
+"Griswold School District",4898,64365
+"Groton School District",15958,66657
+"Guilford School District",8397,111870
+"Hamden School District",22577,77274
+"Hartford School District",46690,36278
+"Killingly School District",7088,62550
+"Lebanon School District",2818,91684
+"Ledyard School District",5769,94099
+"Litchfield School District",3415,84694
+"Madison School District",6912,113798
+"Manchester School District",23645,74503
+"Meriden School District",25595,58843
+"Middletown School District",19294,65572
+"Milford School District",22451,91799
+"Monroe School District",6673,118669
+"Montville School District",6997,74106
+"Naugatuck School District",11589,74944
+"New Britain School District",28232,46499
+"New Canaan School District",7116,190227
+"New Fairfield School District",4971,112457
+"New Haven School District",49177,42222
+"New London School District",10732,46298
+"New Milford School District",10512,89969
+"Newington School District",12366,81646
+"Newtown School District",9885,127602
+"North Branford School District",5339,90461
+"North Haven School District",9064,96598
+"North Stonington School District",1982,75833
+"Norwalk School District",34187,85769
+"Norwich School District",16121,57052
+"Old Saybrook School District",4343,83132
+"Oxford School District",4694,110111
+"Plainfield School District",5595,70206
+"Plainville School District",7637,72175
+"Plymouth School District",4858,82063
+"Portland School District",3741,99292
+"Putnam School District",4096,60201
+"Region 06",2545,102232
+"Region 10",5405,121250
+"Region 12",2979,113224
+"Region 13",4526,113507
+"Region 14",5333,84443
+"Region 15",10715,105450
+"Region 16",5794,96014
+"Region 17",5405,110515
+"Region 18",4253,97093
+"Ridgefield School District",9001,163945
+"Rocky Hill School District",8621,85125
+"Seymour School District",6203,76195
+"Shelton School District",16185,97131
+"Simsbury School District",9583,123905
+"Somers School District",3625,108560
+"South Windsor School District",9783,107374
+"Southington School District",17162,94463
+"Stafford School District",4707,74386
+"Stamford School District",49141,93059
+"Stonington School District",8210,81667
+"Stratford School District",19857,79430
+"Suffield School District",5158,114208
+"Thomaston School District",3157,68539
+"Thompson School District",3569,80125
+"Tolland School District",5252,118194
+"Torrington School District",14471,63172
+"Trumbull School District",12190,122451
+"Vernon School District",13039,64587
+"Wallingford School District",18664,80793
+"Waterbury School District",40937,42401
+"Waterford School District",7715,90893
+"Watertown School District",8513,79576
+"West Hartford School District",24726,104281
+"West Haven School District",19886,62985
+"Westbrook School District",3169,79707
+"Weston School District",3447,222535
+"Westport School District",9916,206466
+"Wethersfield School District",10917,86216
+"Wilton School District",6090,193292
+"Winchester School District",4550,68750
+"Windham School District",8590,47481
+"Windsor School District",10770,92199
+"Windsor Locks School District",5307,70067
+"Wolcott School District",6052,95257
